@@ -36,6 +36,7 @@ if soru == "e":
     dosya = open(isim+".txt","w+")
     dosya.write(isim + dt+"\n")
     dosya.write(isim+soyad+dt+"\n")
+    dosya.write(isim+dt+dt+"\n")
     dosya.write(isim+pet+"\n")
     dosya.write(isim+soyad+nick+"\n")
     dosya.write(isim+nick+soyad+"\n")
@@ -88,7 +89,7 @@ if soru == "e":
     dosya.write(pet+nick+dt+"\n")
     dosya.write(pet+nick+sayi+"\n")
     dosya.write(pet+nick+sayi2+"\n")
-
+    
 
 
     dosya.close()
