@@ -54,6 +54,7 @@ if soru == "e":
     dosya.write(partner+isim+ct+"\n")
     dosya.write(isim+partner+pdt+"\n")
     dosya.write(partner+isim+pdt+"\n")
+    dosya.write(isim+ct+"\n")
     dosya.write(isim+partner+dt+"\n")
     dosya.write(partner+isim+dt+"\n")
     dosya.write(isim+partner+psa+"\n")
