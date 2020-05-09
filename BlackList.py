@@ -90,7 +90,7 @@ if soru == "e":
     dosya.write(pet+nick+dt+"\n")
     dosya.write(pet+nick+sayi+"\n")
     dosya.write(pet+nick+sayi2+"\n")
-    dosya.write(dt+isim"\n")
+    dosya.write(dt+isim+"\n")
 
     
 
