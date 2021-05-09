@@ -1,2 +1,2 @@
 # BlackList
-pyton ´BlackList.py´ komutu ile çalışır
+pyton `BlackList.py` komutu ile çalışır
