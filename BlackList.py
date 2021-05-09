@@ -8,7 +8,7 @@ ______ _       ___  _____  _   __      _     _____ _____ _____
 \____/\_____/\_| |_/\____/\_| \_/     \_____/\___/\____/  \_/             
 Yapımcı : B3YD4
 Yapım Tarihi : 18.01.2020
-Cyber-Shadow-Team © 2018 – 2020 - Tüm Hakları Saklıdır.
+İntikal-Hack-Team © 2018 – 2021 - Tüm Hakları Saklıdır.
 """)
 
 
